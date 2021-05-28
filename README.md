@@ -11,5 +11,8 @@
 - Nema 23 Stepper motors: y-axis (2), x-axis (1), z-axis (1)
 - ratrig 20x20 extrusion + V-wheels (cheap, inaccurate):
 - linear rails (expensive, accurate):
-- ball screw (slow, accurate)
+- ball screw (slow, accurate): 
 - belts (fast, inaccurate):
+- mach3 software
+- mach3 breakout board:
+- power supply:
